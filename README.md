@@ -7,4 +7,5 @@
  * A soma de todos os valores.
  * Média dos valores digitados.
  * Mensagem de alerta caso queira adicionar um número já adicionado ou fazer o cálculo sem adicionar números. 
+ ***
  [link](https://montalvas.github.io/AnalisadorNumero_script/)
